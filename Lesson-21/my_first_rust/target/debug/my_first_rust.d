@@ -1,0 +1,1 @@
+C:\Users\fiora\OneDrive\Documents\GitHub\Backend-Middle\Lesson-21\my_first_rust\target\debug\my_first_rust.exe: C:\Users\fiora\OneDrive\Documents\GitHub\Backend-Middle\Lesson-21\my_first_rust\src\main.rs
